@@ -1,3 +1,6 @@
 testando versionamento 
 
 inserindo novas informações nesse projeto
+
+verificando se houve modificações
+foi inserido mais uma linha
